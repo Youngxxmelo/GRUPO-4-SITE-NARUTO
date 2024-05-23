@@ -3,6 +3,9 @@ Trabalho do semestre, onde nós ( GRUPO 4 ) formado por 7 integrantes, realizamo
 
 Começando com a página inicial, com um pouco de interações para o usuário e com alguns itens que posteriormente terâo uma pagina para cada no site. Mais coisas serâo adicionadas também no futuro.
 
+
+
+
 <!DOCTYPE html>
 <html>
 <head>
