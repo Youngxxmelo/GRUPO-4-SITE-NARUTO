@@ -1,3 +1,2 @@
-Trabalho do semestre sobre o tema Naruto, nós ( GRUPO 4 ). Desde a ideia e a construção de um site de venda e conteúdo sobre o mesmo.
+Este repositório contém código que não deve ser usado sem a permissão expressa do autor. Qualquer uso não autorizado é estritamente proibido. Para solicitar permissão para usar este código em seu projeto, entre em contato comigo.
 
-Nós comentários dentro do Link que colocarei, estarão as informações a respeito do protótipo.
